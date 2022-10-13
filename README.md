@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
-[![website](C0R33/img/youtube-light.svg)](https://www.youtube.com/channel/UC0RPsRNpqYZymZzldzkK2QQ#gh-light-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC0RPsRNpqYZymZzldzkK2QQ#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC0RPsRNpqYZymZzldzkK2QQ#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/reallcore#gh-light-mode-only)
