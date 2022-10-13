@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @C0R33
+- 👋 Hi, I’m Berke
 - 👀 I’m interested in playing computer games and basketball also watching anime.
 - 🌱 I’m currently learining and working on DiscordJS.
 
